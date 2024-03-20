@@ -1,4 +1,5 @@
-# Ethical Hacking Playground: Explore Tools & Techniques (Educational Only)
+![Black Mockup](https://github.com/MistakenChoices/Ethical-Hacking-Playground-Explore-Tools-Techniques-Educational-Only-/assets/122557113/0cf12b1b-59d6-4d30-9662-d5d15eb9c91e)
+
 Level up your security knowledge! This repository serves as your ethical hacking sandbox, providing an assortment of tools and techniques for educational exploration of security vulnerabilities. Explore popular tools like Shodan, Nmap, and more in a safe, controlled environment to gain valuable insights into cybersecurity practices.
 
 Remember, this repo is strictly for educational purposes only! We strongly discourage any malicious activity.
