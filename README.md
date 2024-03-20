@@ -20,6 +20,6 @@ Regularly updated resources to stay at the forefront of the evolving security la
 Active community discussion forum to share knowledge and collaborate with fellow learners.
 Disclaimer: This repository exists solely for educational purposes. Utilizing these tools for malicious activities is strictly prohibited. We encourage responsible disclosure of any discovered vulnerabilities in accordance with ethical guidelines.
 
-Get started today and embark on your ethical hacking journey!
+![Black Mockup](https://github.com/MistakenChoices/Ethical-Hacking-Playground-Explore-Tools-Techniques-Educational-Only-/assets/122557113/bebe045d-911f-4b71-bdca-671594b8a6ee)
 
 Keywords: Ethical Hacking, Hacking Tools, Shodan, Nmap, Vulnerability Scanning, Penetration Testing, Security Training, Educational Resources, Ethical Hacking Principles, Responsible Disclosure, Cybersecurity Fundamentals, Beginner-Friendly
