@@ -23,3 +23,14 @@ Disclaimer: This repository exists solely for educational purposes. Utilizing th
 ![Black Mockup](https://github.com/MistakenChoices/Ethical-Hacking-Playground-Explore-Tools-Techniques-Educational-Only-/assets/122557113/bebe045d-911f-4b71-bdca-671594b8a6ee)
 
 Keywords: Ethical Hacking, Hacking Tools, Shodan, Nmap, Vulnerability Scanning, Penetration Testing, Security Training, Educational Resources, Ethical Hacking Principles, Responsible Disclosure, Cybersecurity Fundamentals, Beginner-Friendly
+
+
+# Hacking Contents (Guides)
+- Shodan Hacking
+- RDP & SMB
+- Exploitation
+- Scanning
+- Usage of Tools (Msfconsole, Metasploit, Metasploit Framework, Beef Framework, Proxychains)
+- Finding Unprotected Services & Securing Them.
+- Google Dorks
+- .BAT & PS (Powershell & Batch tools) to get started more efficently.
